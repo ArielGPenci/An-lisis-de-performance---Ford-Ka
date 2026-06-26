@@ -11,16 +11,6 @@ Este proyecto forma parte de mi **portfolio de Analista de Datos**, demostrando 
 
 ---
 
-## 📸 Vista previa
-
-> *Agrega aquí una o varias capturas del dashboard.*
-
-```text
-📷 dashboard_principal.png
-```
-
----
-
 ## 🎯 Objetivos del proyecto
 
 - Analizar el rendimiento general del vehículo.

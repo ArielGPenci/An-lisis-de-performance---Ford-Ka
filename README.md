@@ -16,22 +16,8 @@ Este proyecto forma parte de mi **portfolio de Analista de Datos**, demostrando 
 - Analizar el rendimiento general del vehículo.
 - Visualizar indicadores clave mediante KPIs.
 - Identificar tendencias de consumo y mantenimiento.
-- Diseñar un dashboard limpio, intuitivo y profesional.
-- Aplicar buenas prácticas de Business Intelligence.
+- Diseñar un dashboard limpio, intuitivo.
 - Transformar datos en información útil para la toma de decisiones.
-
----
-
-## 📊 Indicadores incluidos
-
-- 🚗 Kilometraje total
-- ⛽ Consumo promedio de combustible
-- 💰 Gastos en combustible
-- 🔧 Historial de mantenimiento
-- 📈 Costos de mantenimiento
-- 📅 Tendencias mensuales
-- 📊 Comparación entre períodos
-- 📌 Indicadores KPI
 
 ---
 
@@ -82,7 +68,6 @@ Ford-Ka-Analytics/
 El dashboard permite:
 
 - Analizar la evolución del consumo de combustible.
-- Monitorear el historial y costos de mantenimiento.
 - Identificar tendencias temporales del uso del vehículo.
 - Obtener una visión general mediante indicadores clave.
 - Facilitar la interpretación de los datos mediante visualizaciones interactivas.

@@ -21,7 +21,7 @@ Este proyecto forma parte de mi **portfolio de Analista de Datos**, demostrando 
 
 ---
 
-## 🛠 Tecnologías utilizadas
+## 🛠 Herramientas utilizadas
 
 | Herramienta | Descripción |
 |-------------|-------------|
